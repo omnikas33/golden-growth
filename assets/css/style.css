@@ -757,7 +757,7 @@ h6 {
   }
 }
 .hero__v6 {
-  padding: 3rem 0 !important;
+  padding: 8rem 0 !important;
 }
 .hero__v6 .hero-subtitle {
   background: color-mix(in srgb, var(--bs-secondary), transparent 70%);
